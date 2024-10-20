@@ -1,0 +1,5 @@
+C:\Users\menrit.mosaad\Downloads\Texture19\Texture19\Debug\Texture.exe
+C:\Users\menrit.mosaad\Downloads\Texture19\Texture19\Debug\Texture.pdb
+D:\semesters\Semester 7\Graphics\Labs\Lab 4\Debug\Texture.exe
+D:\semesters\Semester 7\Graphics\Assignments\Lab 4 - Copy\Debug\Texture.exe
+D:\semesters\Semester 7\Graphics\Assignments\Assignment 1\Hello Kitty Minecraft\Debug\Texture.exe
